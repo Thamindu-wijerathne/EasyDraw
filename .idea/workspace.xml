@@ -5,8 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b3ce6429-9df7-4775-9abb-daef72a7f587" name="Changes" comment="Recognize index, index+middle, all fingers =&gt; draw, idle, remove">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aa.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gestures.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReadMe.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ReadMe.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,8 +46,10 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.UI.executor": "Run",
+    "Python.aa.executor": "Run",
     "Python.ado.executor": "Run",
     "Python.main.executor": "Run",
+    "Python.test.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "MM-1",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
@@ -73,7 +79,23 @@
       <option name="project" value="LOCAL" />
       <updated>1731482828037</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Recognize index, index+middle, all fingers =&gt; draw, idle, remove">
+      <option name="closed" value="true" />
+      <created>1731483908202</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1731483908202</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Recognize index, index+middle, all fingers =&gt; draw, idle, remove">
+      <option name="closed" value="true" />
+      <created>1731483916073</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1731483916073</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
