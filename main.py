@@ -4,6 +4,7 @@ import mediapipe as mp
 import gestures as g
 import UI
 
+
 # Initialize Mediapipe Hands model
 mp_hands = mp.solutions.hands
 hands = mp_hands.Hands(min_detection_confidence=0.8, min_tracking_confidence=0.8)
@@ -20,6 +21,7 @@ cap = cv2.VideoCapture(0)
 # Create a white canvas for drawing
 # canvas_width, canvas_height = 640, 480
 # canvas = np.ones((canvas_height, canvas_width, 3), dtype=np.uint8) * 255  # White background
+
 
 while cap.isOpened():
     success, frame = cap.read()
